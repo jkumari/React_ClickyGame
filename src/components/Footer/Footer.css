@@ -1,0 +1,29 @@
+#footer {
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(rgba(0,0,128), rgba(0,0,200), rgba(0,0,128));
+}
+
+a {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    transition: all 1s;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #e480d8;
+}
+
+#logo {
+    height: 30px;
+}
+
+#name {
+    font-size: 14px;
+}
+
+.footerWrapper {
+    margin-top: 30px;   
+}

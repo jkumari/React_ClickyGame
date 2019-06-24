@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/flower1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/flower2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/flower3.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/flower4.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/flower5.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/flower6.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/flower7.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/flower8.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/flower9.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/flower10.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/flower11.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/flower12.jpg",
+      "clicked": false
+    }
+  ]
+  
