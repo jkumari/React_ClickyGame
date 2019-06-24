@@ -22,10 +22,6 @@ Environment Setup
 - [ReactJS](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 
-## Getting Help
-
-If help is needed to understand something in the app or just to provide feedback/suggestion, please send an email to muntasir2165@hotmail.com
-Author
 
 ## The Site is live!
 [Click here to see the page on Github Pages!]()
