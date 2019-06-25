@@ -25,3 +25,6 @@ Environment Setup
 
 ## The Site is live!
 [Click here to see the page on Github Pages!]()
+
+
+![image](https://user-images.githubusercontent.com/15466511/60066356-db6b8280-96d4-11e9-9324-320c01d3f529.png)
